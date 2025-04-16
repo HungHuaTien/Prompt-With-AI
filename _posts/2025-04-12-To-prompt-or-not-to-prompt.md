@@ -4,14 +4,14 @@ title: "🔖To Prompt or Not to Prompt：用提示語開啟人機協作的智慧
 date: 2025-04-12
 author: Hung-Hua Tien
 
-categories: [🧠輸入-閱讀]
+categories: [輸入-閱讀]
 courses: input
 tags: [ChatGPT, 自主學習, AI 學習]
 
 summary: "提示語不只是與AI互動的工具，更是釐清自我思緒、踏上人機協作旅程的第一步。"
 image: 
 published: true
-permalink: /courses/input/
+permalink: /courses/
 ---
 
 
