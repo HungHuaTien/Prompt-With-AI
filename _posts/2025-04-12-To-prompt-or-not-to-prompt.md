@@ -53,8 +53,8 @@ permalink: /ai-notes/
 
 那麼——你準備好和 AI 對話了嗎？
 
-\---
+---
 
 📎 下載資源：
 
-\- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/_files/notes/prompts_toolkit.md)
+- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/files/notes/prompts_toolkit.md)
