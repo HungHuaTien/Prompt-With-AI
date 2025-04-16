@@ -1,6 +1,6 @@
 # 🧠 網站資源總覽
 
-網址: https://hunghuatien.github.io/Prompt-With-AI/
+網址: https://github.com/HungHuaTien/Prompt-With-AI/
 
 歡迎來到AI Coach教你學習的實驗站，這裡是Prompt With AI，專門提供提示語教案。  
 所有內容依照用途與功能分類為不同子資料夾，方便未來快速定位、版本控制與共享。
