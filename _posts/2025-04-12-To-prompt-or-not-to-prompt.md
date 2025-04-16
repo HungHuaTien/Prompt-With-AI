@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "🔖To Prompt or Not to Prompt："
-subtitle: "用提示語開啟人機協作的智慧之旅"
+title: "🔖To Prompt or Not to Prompt：用提示語開啟人機協作的智慧之旅"
 date: 2025-04-12
 author: Hung-Hua Tien
 
-categories: [AI素養, 教育觀點]
+categories: [🧠輸入-閱讀]
+courses: input
 tags: [ChatGPT, 自主學習, AI 學習]
 
 summary: "提示語不只是與AI互動的工具，更是釐清自我思緒、踏上人機協作旅程的第一步。"
-image: /assets/images/cover.jpg
+image: 
 published: true
-permalink: /ai-notes/
+permalink: /courses/input/
 ---
 
 
@@ -53,8 +53,10 @@ permalink: /ai-notes/
 
 那麼——你準備好和 AI 對話了嗎？
 
+
+
 ---
 
 📎 下載資源：
 
-- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/files/notes/prompts_toolkit.md)
+- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/files/notes/reading_prompts_toolkit.md)
