@@ -57,4 +57,4 @@ permalink: /ai-notes/
 
 📎 下載資源：
 
-\- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/files/notes/prompts_toolkit.md)
+\- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/_files/notes/prompts_toolkit.md)
