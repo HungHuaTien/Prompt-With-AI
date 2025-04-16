@@ -52,3 +52,9 @@ permalink: /ai-notes/
 你不需要一次就寫出完美提示語，你只需要從今天開始，學著寫出第一句。
 
 那麼——你準備好和 AI 對話了嗎？
+
+\---
+
+📎 下載資源：
+
+\- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/files/notes/prompts_toolkit.md)
