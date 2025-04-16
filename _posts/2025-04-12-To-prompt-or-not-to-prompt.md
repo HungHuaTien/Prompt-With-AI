@@ -59,4 +59,4 @@ permalink: /courses/input/
 
 📎 下載資源：
 
-- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/files/notes/reading_prompts_toolkit.md)
+- [Markdown 檔下載](https://github.com/HungHuaTien/Prompt-With-AI/blob/main/files/notes/reading_prompts_toolkit.md)
