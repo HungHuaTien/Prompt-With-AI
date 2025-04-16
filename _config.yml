@@ -1,0 +1,30 @@
+---
+title: Prompt With AI
+description: IA、提示語和人機共學共創願景的教學案例分享
+author: Hung-Hua Tien
+email: bigflowerfrancis@gmail.com
+
+baseurl: "/Prompt-With-AI"  # 若為 GitHub Pages 的 user repo，留空；若是 project repo，要加 /MyWebsite
+url: "https://hunghuatien.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 選填：增加中文支援與 Meta 資訊
+lang: zh-TW
+
+include:
+  - files
+
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title/
+
+---
+
+
+
+
